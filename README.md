@@ -1,3 +1,7 @@
+# My To-do App
+
+This is a project that was created when attending a free seminar Develop and Deploy Your React App to Netify by Hacktive8 and some improves from me. The app is simple todo that can add new-task, delete-task, edit-task and search-task.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
